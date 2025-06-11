@@ -15,7 +15,7 @@ The stable v1 release is available on CRAN and used by many at our university; t
     - Compact Letter Display (CLD) annotation
 
 - ezviz: A new parameter *flip* is added to the function. The parameter can have value "True" or "False". This parameter flips the orter of the taxa stacks in the barplot and the legends.
-         If the user does not provide the *flip* parameter, the functions assumes "False" as value.
+         If the user does not provide the *flip* parameter, the functions assumes "False" as default value.
 
 # Contact & Citation
 
