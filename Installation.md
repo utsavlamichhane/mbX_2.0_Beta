@@ -5,6 +5,9 @@ Download the package file from the link below.
 ```
 https://outlookuga-my.sharepoint.com/:u:/g/personal/ul54354_uga_edu/EeQCxwzFBehFppWH1QHWG3EB78Lbrz5AAqvTn1ZohHgN6g?e=brDhM0
 ```
+If you have trouble downloading the package file. 
+
+Email me I will send you a private google drive link.
 
 Open R studio.
 
